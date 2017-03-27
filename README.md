@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/dany-sj/reborn
+cd reborn
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh start
@@ -30,7 +30,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh start
+cd $HOME && git clone https://github.com/dany-sj/reborn.git && cd reborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh start
 ```
 
 * * *
